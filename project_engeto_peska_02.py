@@ -1,6 +1,6 @@
 """
 
-projekt_2.py: druhý projekt do Engeto Online Python Akademie
+projekt_2.py: druhý projekt do Engeto Online Python Akademie: Bulls & Cows
 author: Vratislav Peška
 email: vpeska@gmail.com
 discord: Vratislav Peška vratislavpeska_11865
